@@ -4,7 +4,7 @@
   <title><![CDATA[fredrik wallberg]]></title>
   <link href="http://quesebifurcan.github.com/atom.xml" rel="self"/>
   <link href="http://quesebifurcan.github.com/"/>
-  <updated>2013-02-12T13:53:28+01:00</updated>
+  <updated>2013-02-12T14:02:07+01:00</updated>
   <id>http://quesebifurcan.github.com/</id>
   <author>
     <name><![CDATA[fredrik wallberg]]></name>
@@ -18,7 +18,7 @@
     <link href="http://quesebifurcan.github.com/blog/2013/02/12/en-passant/"/>
     <updated>2013-02-12T13:53:00+01:00</updated>
     <id>http://quesebifurcan.github.com/blog/2013/02/12/en-passant</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>test test test test</p>
 ]]></content>
   </entry>
   
@@ -27,7 +27,7 @@
     <link href="http://quesebifurcan.github.com/blog/2013/02/12/arbeit/"/>
     <updated>2013-02-12T13:05:00+01:00</updated>
     <id>http://quesebifurcan.github.com/blog/2013/02/12/arbeit</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>test test test.</p>
 ]]></content>
   </entry>
   
