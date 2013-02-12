@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[fredrik wallberg]]></title>
+  <title><![CDATA[Fredrik Wallberg]]></title>
   <link href="http://quesebifurcan.github.com/atom.xml" rel="self"/>
   <link href="http://quesebifurcan.github.com/"/>
-  <updated>2013-02-12T15:28:44+01:00</updated>
+  <updated>2013-02-12T15:31:54+01:00</updated>
   <id>http://quesebifurcan.github.com/</id>
   <author>
     <name><![CDATA[fredrik wallberg]]></name>
