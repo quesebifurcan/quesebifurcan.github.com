@@ -1,7 +1,7 @@
 ---
 layout: page
 title: en passant (2011)
-permalink: /en-passant
+permalink: /en-passant/
 ---
 
 in collaboration with artist collective *et al* for Kunsthalle Schirn, Frankfurt am Main

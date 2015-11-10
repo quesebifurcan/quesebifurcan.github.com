@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Choral (2009)
-permalink: /choral
-exclude_from_nav: true
+permalink: /choral/
 ---
 
 for Cello and Loudspeaker

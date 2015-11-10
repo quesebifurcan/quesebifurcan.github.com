@@ -1,7 +1,7 @@
 ---
 layout: page
 title: With Hidden Noise (2012)
-permalink: /with-hidden-noise
+permalink: /with-hidden-noise/
 ---
 
 written for Barbara Maurer
