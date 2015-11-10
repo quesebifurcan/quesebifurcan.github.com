@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Black Ice (2010)
-permalink: /music/black-ice
-exclude_from_nav: true
+permalink: /black-ice
 ---
 
 four musical reflections on a film by Stan Brakhage

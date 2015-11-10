@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Map (2014)
-permalink: /music/map
+permalink: /map
 exclude_from_nav: /music/map
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Choral (2009)
-permalink: /music/choral
+permalink: /choral
 exclude_from_nav: true
 ---
 
