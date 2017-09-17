@@ -6,4 +6,4 @@ permalink: /choral/
 
 for Cello and Loudspeaker
 
-[Recording](https://dl.dropboxusercontent.com/u/4328598/fredrik_wallberg_selected_works/chamber_music/choral2009/cello%2Belektronik.mp3) (mp3, 8.2MB)
+[Recording](https://www.dropbox.com/s/plz61j1r3ear59z/cello%2Belektronik.mp3?dl=0) (mp3, 8.2MB)

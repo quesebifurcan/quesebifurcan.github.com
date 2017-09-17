@@ -13,4 +13,4 @@ It unfolds its images at a high speed, making it very difficult for the viewer t
 
 "Black Ice" is a sister piece to the piano work "The Fold". It was composed at roughly the same time, using a very similar Open Music-patch for the generation of the rhythmical structures onto which the sounds are mapped.
 
-[Audio example, section 3](https://dl.dropboxusercontent.com/u/4328598/fredrik_wallberg_selected_works/black_ice_3.wav)
+[Audio example, section 3](https://www.dropbox.com/s/2z7p3m6qa214cs4/black_ice_3.wav?dl=0)

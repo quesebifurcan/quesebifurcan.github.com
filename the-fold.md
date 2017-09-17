@@ -8,5 +8,4 @@ permalink: /the-fold/
 
 So weit Deleuze. Vor einigen Jahren habe ich mit Begeisterung sein Buch *Le pli* (“Die Falte”) gelesen - einige Denkbilder haben einen bleibenden Eindruck hinterlassen. Erst als ich mein letztes Klavierstück fertig gestellt hatte, ist mir klar geworden, dass ich dabei unbewusst versucht habe das Konzept *Falte* als Metapher für die Ent-faltung einer alternativen Art musikalischer Dramaturgie zu verwenden.
 
-[Score](https://dl.dropboxusercontent.com/u/4328598/fredrik_wallberg_selected_works/chamber_music/the%20fold2010/fredrikwallberg_THEFOLD_pianosolo.pdf) (pdf, 212KB)
-[Recording](https://dl.dropboxusercontent.com/u/4328598/thefoldsimulation2.mp3) (mp3, 5.3MB)
+[Score](https://www.dropbox.com/s/nn0vglh181v42ql/fredrikwallberg_THEFOLD_pianosolo.pdf?dl=0) (pdf, 212KB)

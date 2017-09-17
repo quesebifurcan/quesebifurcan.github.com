@@ -6,4 +6,4 @@ permalink: /en-passant/
 
 in collaboration with artist collective *et al* for Kunsthalle Schirn, Frankfurt am Main
 
-[Documentation](http://dl.dropbox.com/u/4328598/fredrik_wallberg_selected_works/docs/en-passant.pdf) (pdf, 3.6MB)
+[Documentation](https://www.dropbox.com/s/olb03hgb07i6k2d/en-passant.pdf?dl=0) (pdf, 3.6MB)
