@@ -10,5 +10,3 @@ All scores and recordings to which I myself have the exclusive rights are availa
 
 Feel free to contact me at:
 fredrik [dot] wallberg [at] gmail [dot] com 
-
-[Curriculum Vitae](https://dl.dropboxusercontent.com/u/4328598/cv_november_2015.pdf) (november 2015)
